@@ -31,3 +31,4 @@ Initialisatie van Eindopdracht Repository Bi6a-T_1819
 | Totaal: | 20 | << Vul in >> | | 
 | ------------- | ------------- | ------------- | ------------- |
 | Cijfer: ((Totaal / 20) * 10) | 10 | << Vul in >> | | 
+# bi7a-lesopdracht-JoshuaKoopmans
